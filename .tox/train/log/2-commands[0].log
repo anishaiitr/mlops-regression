@@ -1,0 +1,22 @@
+name: train
+run_id: commands[0]
+env TERM: xterm-256color
+env TMPDIR: /var/folders/6_/vjwf9w3d1q7798qtl6gm3bqh0000gn/T/
+env LANG: en_US.UTF-8
+env HOME: /Users/anisha
+env PATH: /Users/anisha/Documents/GitHub/mlops-regression/.tox/test_package/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/anaconda3/bin:/opt/anaconda3/condabin:/Users/anisha/Documents/Dev/Apache-Spark/spark-3.5.0-bin-hadoop3/bin
+env PYTHONHASHSEED: 740439211
+env PIP_DISABLE_PIP_VERSION_CHECK: 1
+env PYTHONIOENCODING: utf-8
+env PYTHONPATH: .
+env TOX_ENV_NAME: train
+env TOX_WORK_DIR: /Users/anisha/Documents/GitHub/mlops-regression/.tox
+env TOX_ENV_DIR: /Users/anisha/Documents/GitHub/mlops-regression/.tox/test_package
+env VIRTUAL_ENV: /Users/anisha/Documents/GitHub/mlops-regression/.tox/test_package
+env COLUMNS: 190
+env LINES: 15
+metadata pid: 81411
+cwd: /Users/anisha/Documents/GitHub/mlops-regression
+allow: /Users/anisha/Documents/GitHub/mlops-regression/.tox/test_package/bin/*
+cmd: python regression_model/train_pipeline.py
+exit_code: 0

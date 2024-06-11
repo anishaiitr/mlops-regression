@@ -3,8 +3,8 @@ Name: tid-regression-model
 Version: 0.0.1
 Summary: Example regression model package from Train In Data.
 Home-page: https://github.com/trainindata/testing-and-monitoring-ml-deployments
-Author: ChristopherGS
-Author-email: christopher.samiullah@protonmail.com
+Author: anishaiitr
+Author-email: anishaiitr@gmail.com
 License: BSD-3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python
